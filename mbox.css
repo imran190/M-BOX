@@ -1,5 +1,5 @@
 body, html{margin:0px; padding:0px; width:100%; height:100%; font-family:Arial, Helvetica, sans-serif;}
-.mboxblackbg{background-image:url(../images/mboxblackbg.png); background-repeat:repeat; position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999;}
+.mboxblackbg{background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAACVBMVEUABAAQFBAICAgJl9D+AAAAWklEQVQoke2QQQrAIAwEZ/P/R9cqBMRmm0tvFcGQddAMiuDe0lM1jrlm76wITLrCMk1W2dsqHDtiDJtzVD9gI457ODaEYxvWrJemteKNN2s27Vgzs/3WPrB2AY/aBeLJuY0SAAAAAElFTkSuQmCC'); background-repeat:repeat; position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999;}
 .mboxwrap{ width:100%; position:absolute; left:0px; top:50px; z-index:9999999;}
 .mboxwrap .mboxwhitebox{ width:200px; height:200px;  background-color:#FFFFFF; margin:auto; border:10px solid #000; border-radius:10px;}
 .mboxwrap .mboxtitlehead{/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#292d2d+0,000000+73 */
