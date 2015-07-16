@@ -1,0 +1,20 @@
+body, html{margin:0px; padding:0px; width:100%; height:100%; font-family:Arial, Helvetica, sans-serif;}
+.mboxblackbg{background-image:url(../images/mboxblackbg.png); background-repeat:repeat; position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999;}
+.mboxwrap{ width:100%; position:absolute; left:0px; top:50px; z-index:9999999;}
+.mboxwrap .mboxwhitebox{ width:200px; height:200px;  background-color:#FFFFFF; margin:auto; border:10px solid #000; border-radius:10px;}
+.mboxwrap .mboxtitlehead{/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#292d2d+0,000000+73 */
+background: #292d2d; /* Old browsers */
+background: -moz-linear-gradient(top,  #292d2d 0%, #000000 73%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#292d2d), color-stop(73%,#000000)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #292d2d 0%,#000000 73%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #292d2d 0%,#000000 73%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #292d2d 0%,#000000 73%); /* IE10+ */
+background: linear-gradient(to bottom,  #292d2d 0%,#000000 73%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#292d2d', endColorstr='#000000',GradientType=0 );
+ font-size:14px; color:#FFFFFF; font-weight:bold; padding:10px; position:relative;}
+.mboxwrap .mboxclosebtn { position: absolute;  right: -18px;  top: -20px;  background-color: #000;  border-radius: 5px; width:30px; height:30px; cursor:pointer;}
+.mboxwrap .mboxclosebtn:hover{background-color:#CC0000;}
+.mboxwrap .mboxcontentbox{width:100%; height:100%;}
+.mboxwrap .mboxframe{width:100%; height:100%;}
+#mboxpopcotent{position:fixed; top:0px; left:0px; width:100%; }
+.mboxtitlehead2{position:relative; height:0px;}
